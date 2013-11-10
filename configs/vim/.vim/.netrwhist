@@ -1,0 +1,11 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =9
+let g:netrw_dirhist_1='/home/linhong/linhong/code_coverage/tool/byt_t_ffrd10'
+let g:netrw_dirhist_2='/home/linhong/linhong/android_src/device/intel/common'
+let g:netrw_dirhist_3='/home/linhong/linhong/mr2/device/intel/clovertrail'
+let g:netrw_dirhist_4='/home/linhong/linhong/mr2/system/vold'
+let g:netrw_dirhist_5='/home/linhong/linhong/mr2/vendor/intel'
+let g:netrw_dirhist_6='/home/linhong/linhong/mr2/device/intel/common/storage'
+let g:netrw_dirhist_7='/home/wangshu/src/main'
+let g:netrw_dirhist_8='/home/shu/tools/UATSAgent/src/plugins/usb_storage/function'
+let g:netrw_dirhist_9='/home/shu/Documents/test-tools-v1.0.0.7'

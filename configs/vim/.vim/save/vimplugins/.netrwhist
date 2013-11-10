@@ -1,0 +1,9 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =7
+let g:netrw_dirhist_1='/home/administrator/source/frameworks/base/services/camera/libcameraservice'
+let g:netrw_dirhist_2='/home/administrator/source/frameworks/base'
+let g:netrw_dirhist_3='/home/administrator/source/frameworks/base/services'
+let g:netrw_dirhist_4='/home/administrator/source/frameworks/base/services/camera'
+let g:netrw_dirhist_5='/home/administrator/source/frameworks/base/services/camera/libcameraservice'
+let g:netrw_dirhist_6='/home/administrator/source'
+let g:netrw_dirhist_7='/home/administrator/.vim'
