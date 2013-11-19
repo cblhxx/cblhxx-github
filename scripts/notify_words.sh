@@ -10,6 +10,6 @@ while [ 1 ] ; do
     WORDCOUNT=`cat $1 | wc -l`
     RANDLINE=`expr $RANDOM % $WORDCOUNT + 1`
     WORD=`sed -n "$RANDLINE"p $1`
-    notify-send $WORD
+    notify-send -u critical $WORD
     sleep 60
 done
