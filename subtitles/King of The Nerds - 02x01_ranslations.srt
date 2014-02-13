@@ -171,7 +171,7 @@ especially when the latter is diverting all power to shields.
 
 36
 00:01:50,289 --> 00:01:53,374
-想想下骑在扫帚飞行的时候计算距离,时间与重力.
+想象下骑在扫帚飞行的时候计算距离,时间与重力.
 Imagine calculating relativity while flying on a broomstick.
 
 37
@@ -276,7 +276,6 @@ Ahh.
 57
 00:02:38,516 --> 00:02:43,516
 <i><b><font color="#96f171">吃饱了好学习译.</font></b></i>
-<i><b><font color="#96f171">Sync & corrections by No1 www.addic7ed.com.</font></b></i>
 
 58
 00:03:01,727 --> 00:03:04,111
@@ -2081,12 +2080,12 @@ Bobby, you're right.
 
 426
 00:19:54,482 --> 00:19:58,068
-这就是说, Nicole...
+也就是说, Nicole...
 That means, Nicole...
 
 427
 00:19:58,119 --> 00:20:01,121
-你是目前最宅的人
+你是最宅的人
 You are the nerdiest of all nerds!
 
 428
@@ -2192,7 +2191,7 @@ Understandable.
 
 449
 00:21:00,748 --> 00:21:03,450
-Kelsey, 我的魔法反击怎么样?
+Kelsey, 我的反伤魔法怎么样?
 Hey, Kelsey, how do you like my reversal charm?
 
 450
@@ -2227,12 +2226,12 @@ Gold team will be selecting the other person.
 
 456
 00:21:21,318 --> 00:21:24,537
-你们有24小时时间做决定.
+你们有24小时时间来决定.
 You have 24 hours to decide.
 
 457
 00:21:24,605 --> 00:21:28,107
-在此期间, 你们还要给队伍起个名字.
+同时, 你们还要给队伍起个名字.
 And while you're at it, name your teams.
 
 458
@@ -2259,12 +2258,12 @@ We have endured.
 
 463
 00:21:38,753 --> 00:21:42,005
-我算是松了一口气.
+总算松了一口气.
 I am quite relieved that I have endured.
 
 464
 00:21:42,056 --> 00:21:45,458
-Zack: 我们黄队完暴对方.
+Zack: 我们完暴对方.
 Zack: We have completely triumphed, and we are the gold team.
 
 465
@@ -2299,7 +2298,7 @@ it sucks.
 
 471
 00:21:59,690 --> 00:22:01,474
-这算粗口不?
+算粗口不?
 Can I say "sucks"? [Laughs]
 
 472
@@ -2474,7 +2473,7 @@ I'm gonna do a stat table.
 
 506
 00:23:22,556 --> 00:23:25,275
-都有... 科学, 工程, 数学...
+科学, 工程, 数学...
 So, let's see... science, engineering, math...
 
 507
@@ -2589,7 +2588,7 @@ No hard feelings.
 
 529
 00:24:28,372 --> 00:24:33,531
-- Curtis: 大家来到正殿!
+- Curtis: 大家正殿集合!
 - Curtis: All nerds to the throne room!
 
 530
@@ -2603,7 +2602,7 @@ Brian: Today is our first Nerd-Off, and it will be somebody
 
 532
 00:24:41,740 --> 00:24:44,291
-紫队两个人进行决斗.
+两个紫队选手进行决斗.
 from the purple team against somebody from the purple team.
 
 533
@@ -2618,12 +2617,12 @@ Josh: It really feels like this regal chamber
 
 535
 00:24:49,915 --> 00:24:52,850
-国王与群臣议事的地方.
+国王坐在正中大揽朝政.
 where the king would sit and make his decisions.
 
 536
 00:24:56,722 --> 00:25:00,558
-欢迎来到这个汇集宅元素的天堂,
+欢迎来到这个宅元素的天堂,
 Welcome, nerds, to this nerd elysium,
 
 537
@@ -2638,12 +2637,12 @@ will be going to head-to-head in our first Nerd-Off.
 
 539
 00:25:10,318 --> 00:25:14,655
-胜利的一方可以留下继续比拼
+胜利的一方可以继续
 The winner will stay to compete for the crown
 
 540
 00:25:14,689 --> 00:25:17,508
-为了登上至高的
+并有可能登上至高的
 and the right to sit atop...
 
 541
@@ -2696,7 +2695,7 @@ The Midas...
 
 551
 00:25:45,437 --> 00:25:46,637
-- Attack! "黄金突击"
+- Attack! "黄金突袭"
 - Attack!
 
 552
@@ -2755,7 +2754,7 @@ All: The Titans of Rigel!
 
 563
 00:26:15,500 --> 00:26:16,917
-之前他们已经告诉了.
+两个表演了.
 Last time, they just <i>told</i> us.
 
 564
@@ -2794,7 +2793,7 @@ All the past scientists and philosophers
 
 571
 00:26:35,353 --> 00:26:37,321
-都对我们比较排斥.
+都排斥我们.
 have propelled us to this moment.
 
 572
@@ -2804,7 +2803,7 @@ have propelled us to this moment.
 
 573
 00:26:39,357 --> 00:26:41,592
-Curtis打断下, 这是"rhy-jel".
+Curtis不好意思, 这念"rhy-jel".
 And I'm sorry, Curtis, but it's "rhy-jel."
 
 574
@@ -2819,12 +2818,12 @@ Yeah, soft "g." I know. [Laughs]
 
 576
 00:26:45,914 --> 00:26:48,415
-你们的投票在我手里.
+投票结果在这里.
 We have your votes right here.
 
 577
 00:26:48,450 --> 00:26:50,701
-"黄金突击"
+"黄金突袭"
 Team Midas Touch Attack...
 
 578
@@ -2953,12 +2952,12 @@ Kelsey, Chris... step forward, please.
 
 604
 00:28:02,657 --> 00:28:04,508
-请下跪.
+请行礼.
 Bend the knee.
 
 605
 00:28:06,077 --> 00:28:12,816
-几天, 你们面临的是对奇幻世界的考验.
+几天, 你们面临的是对幻想世界的考验. (奇幻,魔幻,科幻)
 Today, you will be tested on your knowledge of all things fantasy.
 
 606
@@ -2981,10 +2980,12 @@ Kayla: Oh, wow.
 
 610
 00:28:24,129 --> 00:28:25,963
+抓紧...
 Behold...
 
 611
 00:28:25,997 --> 00:28:28,098
+宅界的缰绳.
 The nerd bolt.
 
 612
@@ -2993,18 +2994,22 @@ The nerd bolt.
 
 613
 00:28:29,834 --> 00:28:36,140
+今天你们将要在空中决斗...
 Today, you are going to be doing battle in the skies...
 
 614
 00:28:36,207 --> 00:28:37,507
+魁地奇球赛! (出自哈利波特)
 Like Quidditch!
 
 615
 00:28:37,525 --> 00:28:40,861
+Curtis: 游戏的名字叫...
 Curtis: In a game we call...
 
 616
 00:28:40,946 --> 00:28:42,980
+"宅地奇球赛."
 "Nerdditch."
 
 617
@@ -3013,18 +3018,18 @@ Curtis: In a game we call...
 
 618
 00:28:44,616 --> 00:28:47,618
-I'm a huge "Harry Potter" fan.
-I'm a Hufflepuff.
+我是哈利波特粉丝. 我是魔法学徒.
+I'm a huge "Harry Potter" fan. I'm a Hufflepuff.
 
 619
 00:28:47,685 --> 00:28:49,720
-You have three hours
-to prepare.
+你们有3个小时准备时间.
+You have three hours to prepare.
 
 620
 00:28:49,754 --> 00:28:56,460
-Whoever loses will become
-he who must not be nerdy.
+不宅的人将会被淘汰.
+Whoever loses will become he who must not be nerdy.
 
 621
 00:28:56,494 --> 00:28:57,411
@@ -3032,45 +3037,48 @@ he who must not be nerdy.
 
 622
 00:28:57,462 --> 00:28:59,997
+愿强者得胜.
 May the best nerd win.
 
 623
 00:29:00,031 --> 00:29:03,584
-Kelsey: I'm gonna prove
-that I deserve to be here.
+Kelsey: 我需要证明我的价值.
+Kelsey: I'm gonna prove that I deserve to be here.
 
 624
 00:29:03,635 --> 00:29:07,171
-I may not be an engineer
-or a scientist,
+我或许不是工程师, 不是科学家,
+I may not be an engineer or a scientist,
 
 625
 00:29:07,222 --> 00:29:10,741
-but that doesn't mean that I can't
-win this entire competition.
+但这并不代表我就不能赢得这个竞赛.
+but that doesn't mean that I can't win this entire competition.
 
 626
 00:29:12,644 --> 00:29:16,046
-This is pretty much the worst challenge
-for me, I would have to say.
+这可能是我最不擅长的比赛了.
+This is pretty much the worst challenge for me, I would have to say.
 
 627
 00:29:16,064 --> 00:29:18,432
+我并不是个幻想类的粉丝. (奇幻, 魔幻, 科幻)
 I am not a fan of fantasy.
 
 628
 00:29:18,483 --> 00:29:19,731
-Are you guys familiar
-with "Game of Thrones"?
+你知道"权力的游戏"吗
+Are you guys familiar with "Game of Thrones"?
 
 629
 00:29:19,744 --> 00:29:21,003
+没读过书.
 Not the books.
 
 630
 00:29:21,019 --> 00:29:22,274
-I've read all the books.
-I haven't seen the show.
+我读过全套书, 但没看过电视剧.
+I've read all the books. I haven't seen the show.
 
 631
 00:29:22,287 --> 00:29:23,553
@@ -3078,63 +3086,67 @@ Okay.
 
 632
 00:29:23,571 --> 00:29:25,789
-I think to be a nerd,
-you need to have a passion
+我认为要成为一个怪才, 要保持激情
+I think to be a nerd, you need to have a passion
 
 633
 00:29:25,857 --> 00:29:27,908
-in something
-that can be useful to society,
+要有益于社会.
+in something that can be useful to society,
 
 634
 00:29:27,942 --> 00:29:30,110
-so that's why I'm actually
-a fan of science fiction,
+所以我是科幻粉丝.
+so that's why I'm actually a fan of science fiction,
 
 635
 00:29:30,161 --> 00:29:31,996
+星际迷航.
 which is "Star Trek."
 
 636
 00:29:32,063 --> 00:29:34,698
-I don't think that he has
-the ability to compete.
+我不认为他有竞争的实力.
+I don't think that he has the ability to compete.
 
 637
 00:29:34,733 --> 00:29:35,805
+他懂科幻.
 He knows Sci-Fi.
 
 638
 00:29:35,818 --> 00:29:36,900
-Mary Kate: He's got
-that engineering mind.
+Mary Kate: 他有工程师的大脑.
+Mary Kate: He's got that engineering mind.
 
 639
 00:29:36,918 --> 00:29:38,836
-But fantasy?
-He's in the dark completely.
+但这个比赛? 他真的不行.
+But fantasy? He's in the dark completely.
 
 640
 00:29:38,870 --> 00:29:40,737
-Like, this is exactly
-how we planned it.
+这正是我们希望的.
+Like, this is exactly how we planned it.
 
 641
 00:29:40,755 --> 00:29:42,039
+我们中了头彩.
 We rolled the 20.
 
 642
 00:29:42,090 --> 00:29:45,843
-If we get rid of Chris on their
-team, we remove their foundation,
+除掉了Chris, 相当于釜底抽薪.
+If we get rid of Chris on their team, we remove their foundation,
 
 643
 00:29:45,877 --> 00:29:48,078
-and you get rid of the foundation
-of a building, it crumbles.
+紫队会像摧毁地基的大楼, 只能倒塌.
+and you get rid of the foundation of a building, it crumbles.
 
 644
 00:29:48,146 --> 00:29:50,047
+黄金突袭!
 Midas Touch Attack!
 
 645
@@ -3143,256 +3155,271 @@ Midas Touch Attack!
 
 646
 00:29:51,883 --> 00:29:53,717
+Kelsey: 还不清楚.
 Kelsey: I don't know.
 
 647
 00:29:53,751 --> 00:29:56,653
-When they say "fantasy,"
-I'm like, "what <i>kind</i> of fantasy?
+他们说"幻想类"时我在想, "到底是哪种幻想类?
+When they say "fantasy," I'm like, "what <i>kind</i> of fantasy?
 
 648
 00:29:56,721 --> 00:30:00,758
-Where is the fantasy?
-Whose fantasy?"
+发生在哪里? 作者是谁?"
+Where is the fantasy? Whose fantasy?"
 
 649
 00:30:00,792 --> 00:30:02,976
-Xander: Kelsey's definitely
-the luna Lovegood.
+Xander: Kelsey就是卢娜·洛夫古德. (哈利波特里的小萝莉)
+Xander: Kelsey's definitely the luna Lovegood.
 
 650
 00:30:03,028 --> 00:30:05,195
-She's off in her own world.
-She's a little bit spacy.
+她在自己的世界中. 有点儿古怪.
+She's off in her own world. She's a little bit spacey.
 
 651
 00:30:05,230 --> 00:30:08,866
-I wouldn't be surprised if she
-showed up with radish earrings.
+如果她带个小萝卜耳坠我也一点儿也不奇怪.
+I wouldn't be surprised if she showed up with radish earrings.
 
 652
 00:30:08,900 --> 00:30:11,452
-How do you think they're gonna go with,
-like, maybe, traditional fairy tales?
+你们觉着接下来会是什么, 或许是经典童话?
+How do you think they're gonna go with, like, maybe, traditional fairy tales?
 
 653
 00:30:11,536 --> 00:30:13,987
-'Cause I have
-a very good knowledge of...
+这是我专长...
+'Cause I have a very good knowledge of...
 
 654
 00:30:14,072 --> 00:30:15,739
-But that's what makes her
-so dangerous,
+因为这些, 她实在是狠危险.
+But that's what makes her so dangerous,
 
 655
 00:30:15,774 --> 00:30:17,207
-is that you <i>don't</i> know
-what's gonna happen.
+你不知道接下来会发生什么.
+is that you <i>don't</i> know what's gonna happen.
 
 656
 00:30:17,242 --> 00:30:19,109
-Brian: Terry pratchett...
+Brian: Terry pratchett... (奇幻小说作家)
 
 657
 00:30:19,160 --> 00:30:21,678
-- how are you guys on Terry pratchett?
-- Got to learn it.
+你们了解Terry Pratchett吗? 在学.
+- how are you guys on Terry pratchett? - Got to learn it.
 
 658
 00:30:21,746 --> 00:30:23,080
+Chris: 我并不恐慌.
 Chris: I'm not panicking.
 
 659
 00:30:23,114 --> 00:30:25,215
-The last time
-I've had to study something
+上次我学东西
+The last time I've had to study something
 
 660
 00:30:25,250 --> 00:30:27,518
-was when I was trying to figure out
-how to solve a rubik's cube...
+是学习怎么去解魔方...
+was when I was trying to figure out how to solve a rubik's cube...
 
 661
 00:30:27,585 --> 00:30:29,136
-I'm just going to try
-to put as much
+我将把尽可能多的
+I'm just going to try to put as much
 
 662
 00:30:29,170 --> 00:30:31,055
-random information in my head
-as possible.
+各种信息记在脑子里.
+random information in my head as possible.
 
 663
 00:30:31,089 --> 00:30:32,639
+这需要注意力绝对集中.
 And it requires a lot of focus,
 
 664
 00:30:32,724 --> 00:30:34,658
-so I'll probably be using
-those same resources
+这次我也会一样
+so I'll probably be using those same resources
 
 665
 00:30:34,726 --> 00:30:36,660
-to help me out
-in this challenge.
+赢得这场的胜利.
+to help me out in this challenge.
 
 666
 00:30:36,728 --> 00:30:38,645
-What about "Harry Potter"? Where
-are you guys on "Harry Potter"?
+哈利波特呢? 你们哈利波特懂多少?
+What about "Harry Potter"? Where are you guys on "Harry Potter"?
 
 667
 00:30:38,730 --> 00:30:40,111
+不多.
 Not good.
 
 668
 00:30:40,124 --> 00:30:41,515
-I've read all of the books,
-but it's just been years.
+我所有书都读过, 但那是很多年之前了.
+I've read all of the books, but it's just been years.
 
 669
 00:30:41,566 --> 00:30:44,485
-Yes, 2007... I was
-at space camp that year, yeah.
+2007年... 我正在太空营.(世界最大太空博物馆)
+Yes, 2007... I was at space camp that year, yeah.
 
 670
 00:30:44,569 --> 00:30:46,103
+这次对决的结果
 The results of this Nerd-Off
 
 671
 00:30:46,137 --> 00:30:48,822
-can really change
-the dynamics of the team.
+将会对这个团队有很大影响.
+can really change the dynamics of the team.
 
 672
 00:30:48,857 --> 00:30:51,942
-If we lose Chris,
-we lose our strongest player.
+如果Chris输掉, 我们就失去了一个强大的选手.
+If we lose Chris, we lose our strongest player.
 
 673
 00:30:51,976 --> 00:30:53,977
-It could be
-a huge gravitational well
+就像一个强大的重力井
+It could be a huge gravitational well
 
 674
 00:30:53,995 --> 00:30:56,747
-that's just gonna send us
-flying in the wrong direction.
+把我们引入歧途.
+that's just gonna send us flying in the wrong direction.
 
 675
 00:31:07,108 --> 00:31:10,544
-Brian: Getting put in the Nerd-Off
-is by no means a death sentence.
+Brian: 被选入决斗并不等同于死亡判决.
+Brian: Getting put in the Nerd-Off is by no means a death sentence.
 
 676
 00:31:10,578 --> 00:31:13,297
-This is not facedown in
-the guillotine, slice it off.
+并不是再断头台上, 一下头就没了.
+This is not facedown in the guillotine, slice it off.
 
 677
 00:31:13,348 --> 00:31:15,149
+这是证明自己的机会.
 It's time to prove yourself.
 
 678
 00:31:19,604 --> 00:31:21,522
+Jack: Mindy, 那个拉拉队女孩
 Jack: Mindy the pom pom girl
 
 679
 00:31:21,556 --> 00:31:23,307
-is probably the cutest girl
-at this moment.
+八成是现在最可爱的妹子.
+is probably the cutest girl at this moment.
 
 680
 00:31:23,341 --> 00:31:25,526
-I'd take her out
-to dinner and a movie.
+我要跟她去吃宵夜然后看电影.
+I'd take her out to dinner and a movie.
 
 681
 00:31:25,560 --> 00:31:28,562
-[Singsong voice] That would be a
-very nerdy relationship. Whoo-hoo!
+这会是段呆呆的情缘.
+[Singsong voice] That would be a very nerdy relationship. Whoo-hoo!
 
 682
 00:31:28,596 --> 00:31:33,000
-Welcome to
-our first Nerd-Off...
+欢迎来到我们的首场对决...
+Welcome to our first Nerd-Off...
 
 683
 00:31:33,034 --> 00:31:36,436
+一场魔法的较量, Nerdditch.
 a magical game of Nerdditch.
 
 684
 00:31:36,454 --> 00:31:40,273
-After correctly answering
-a fantasy-based question,
+正确回答幻想类的问题后,
+After correctly answering a fantasy-based question,
 
 685
 00:31:40,291 --> 00:31:45,245
-you will have the chance
-to fly on a broom down a course
+你们将可以乘坐扫帚飞过赛道
+you will have the chance to fly on a broom down a course
 
 686
 00:31:45,279 --> 00:31:48,549
-while attempting
-to throw vials of potion
+并尽力将魔法药瓶
+while attempting to throw vials of potion
 
 687
 00:31:48,583 --> 00:31:53,253
-into cauldrons
-of varying point value.
+扔入不同分值的锅中.
+into cauldrons of varying point value.
 
 688
 00:31:53,288 --> 00:31:55,589
-The nerd with
-the highest number of points
+五轮之后,
+The nerd with the highest number of points
 
 689
 00:31:55,623 --> 00:31:58,425
-at the end of five rounds
-is the winner.
+得分最多人获胜.
+at the end of five rounds is the winner.
 
 690
 00:31:58,459 --> 00:32:01,345
+败者会被永远淘汰.
 The loser is banished forever.
 
 691
 00:32:02,230 --> 00:32:04,014
-Kayla:
-Who knows who's gonna win?
+Kayla: 谁知道谁会赢?
+Kayla: Who knows who's gonna win?
 
 692
 00:32:04,065 --> 00:32:06,350
-This is going to be
-up to whichever God out there
+只有那些乱七八糟的
+This is going to be up to whichever God out there
 
 693
 00:32:06,401 --> 00:32:08,435
-you believe in...
-or non-God or whatever.
+你相信或不相信的神才知道.
+you believe in... or non-God or whatever.
 
 694
 00:32:08,469 --> 00:32:11,304
+下面是第一题.
 We come to our first question.
+
+694
+00:32:12,000 --> 00:32:22,000
+如下哪种球不会在魁地奇球赛中使用.
 
 695
 00:32:23,451 --> 00:32:25,586
-Dude, it's easy... Nimbus.
-It's a broom. Duh.
+这个简单... Nimbus. 这是扫帚. 懂吧.
+Dude, it's easy... Nimbus. It's a broom. Duh.
 
 696
 00:32:25,620 --> 00:32:27,254
+出示你们的答案.
 Reveal your answer.
 
 697
 00:32:28,339 --> 00:32:32,042
-You are both correct.
-The answer is Nimbus.
+答案是Nimbus. 两人都正确.
+You are both correct. The answer is Nimbus.
 
 698
 00:32:32,127 --> 00:32:35,162
-Kelsey,
-you will be flying first.
+Kelsey, 从你开始.
+Kelsey, you will be flying first.
 
 699
 00:32:35,230 --> 00:32:37,097
@@ -3400,22 +3427,23 @@ you will be flying first.
 
 700
 00:32:37,132 --> 00:32:39,216
-[Dramatic accent]
-Nerdditch is about to begin!
+宅地奇球赛马上开始!
+[Dramatic accent] Nerdditch is about to begin!
 
 701
 00:32:39,267 --> 00:32:42,770
-Kelsey: I don't throw potions
-into a cauldron
+Kelsey: 我日常并不需要把魔瓶
+Kelsey: I don't throw potions into a cauldron
 
 702
 00:32:42,804 --> 00:32:45,055
+扔到大锅中,
 as part of my daily routine,
 
 703
 00:32:45,106 --> 00:32:47,841
-so I'm just gonna aim for one of
-the big ones right off the start.
+所以我开始先瞄准一个最大的.
+so I'm just gonna aim for one of the big ones right off the start.
 
 704
 00:32:47,876 --> 00:32:49,509
@@ -3427,22 +3455,23 @@ Go!
 
 706
 00:32:51,146 --> 00:32:54,615
-Curtis:
-She's approaching the 100.
+Curtis: 她正在接近100分
+Curtis: She's approaching the 100.
 
 707
 00:32:56,618 --> 00:32:58,452
+她过去了.
 She's passed.
 
 708
 00:32:58,486 --> 00:33:01,071
-She must be eyeing one of the
-larger-point-value cauldrons,
+她一定是准备扔一个高分值的锅,
+She must be eyeing one of the larger-point-value cauldrons,
 
 709
 00:33:01,156 --> 00:33:04,258
-though she does have
-up to six potion vials to throw.
+虽然她有6个法瓶可以扔.
+though she does have up to six potion vials to throw.
 
 710
 00:33:04,292 --> 00:33:05,743
@@ -3450,26 +3479,28 @@ up to six potion vials to throw.
 
 711
 00:33:05,794 --> 00:33:08,245
+哦, 差了一点儿!
 Oh! She just missed!
 
 712
 00:33:08,296 --> 00:33:10,664
+飞的太快了.
 It just went by too fast.
 
 713
 00:33:10,698 --> 00:33:13,584
-Jack: I was not expecting so
-much of a dexterity component.
+Jack: 我没想到会有如此多的敏捷元素.
+Jack: I was not expecting so much of a dexterity component.
 
 714
 00:33:13,635 --> 00:33:15,753
-Calculating relativity
-is hard on paper.
+在纸上算本身就很难了.
+Calculating relativity is hard on paper.
 
 715
 00:33:15,804 --> 00:33:18,872
-Imagine calculating relativity
-while flying on a broomstick.
+想象下骑在扫帚飞行的时候计算距离,时间与重力.
+Imagine calculating relativity while flying on a broomstick.
 
 716
 00:33:18,907 --> 00:33:21,759
@@ -3477,8 +3508,8 @@ Kayla: Chris! Fly! Katie: Whoo!
 
 717
 00:33:21,810 --> 00:33:25,479
-Chris is gonna be
-a pivotal first elimination.
+首轮淘汰Chris至关重要.
+Chris is gonna be a pivotal first elimination.
 
 718
 00:33:25,513 --> 00:33:26,814
@@ -3486,17 +3517,18 @@ Ready...
 
 719
 00:33:26,848 --> 00:33:29,516
-If he loses, we took out
-a huge player right away.
+如果他输了, 我们轻松除掉了一个强力的对手.
+If he loses, we took out a huge player right away.
 
 720
 00:33:29,551 --> 00:33:31,351
-Set... If he wins,
+如果他赢了
+If he wins,
 
 721
 00:33:31,385 --> 00:33:33,487
-we're gonna fear him a whole lot
-more than we already do.
+我们将会更视他为眼中钉.
+we're gonna fear him a whole lot more than we already do.
 
 722
 00:33:33,521 --> 00:33:34,688
@@ -3512,13 +3544,13 @@ Fly, nerd! Fly!
 
 725
 00:33:37,659 --> 00:33:39,860
-Chris is preparing
-his first vial,
+Chris准备第一投,
+Chris is preparing his first vial,
 
 726
 00:33:39,894 --> 00:33:42,412
-looking at
-that 100-point cauldron.
+瞄准了一个100分大锅.
+looking at that 100-point cauldron.
 
 727
 00:33:42,447 --> 00:33:44,114
@@ -3526,15 +3558,17 @@ that 100-point cauldron.
 
 728
 00:33:44,165 --> 00:33:46,500
-- That was a direct hit.
-- It was a direct hit, by gosh.
+正中
+- That was a direct hit. - It was a direct hit, by gosh.
 
 729
 00:33:46,534 --> 00:33:48,502
+尝试500分
 Attempting the 500.
 
 730
 00:33:48,536 --> 00:33:49,586
+打在了锅口!
 And it's off the rim!
 
 731
@@ -3543,38 +3577,51 @@ And it's off the rim!
 
 732
 00:33:51,206 --> 00:33:52,405
+很不错的一次.
 Very good flight.
 
 733
 00:33:52,457 --> 00:33:54,291
+砰, 爆炸!
 Boom goes the dynamite!
 
 734
 00:33:54,342 --> 00:33:59,146
-Now the score is Chris 100
-and Kelsey with 0.
+现在的比分是, Chris 100分, Kelsey 0分
+Now the score is Chris 100 and Kelsey with 0.
 
 735
 00:33:59,214 --> 00:34:01,414
+第二题是.
 And now the second question.
+
+735
+00:34:03,000 --> 00:34:08,146
+对于<公主新娘>中的Miracle Max, "死光了"和"死差不多了"有什么不同?
+
+735
+00:34:09,000 --> 00:34:15,146
+"死差不多了"是... A.还有口气 B.永久的 C.很难闻到 D.还可以交流
 
 736
 00:34:16,698 --> 00:34:18,398
+Zack: 搞笑呢?
 Zack: Is that a joke?
 
 737
 00:34:18,432 --> 00:34:20,284
-I can't believe
-he's asking these questions.
+不敢相信会出这些问题.
+I can't believe he's asking these questions.
 
 738
 00:34:20,318 --> 00:34:21,768
+出示答案!
 Reveal!
 
 739
 00:34:21,786 --> 00:34:24,271
-The correct answer
-is "slightly alive."
+答案是: "还有口气".
+The correct answer is "slightly alive."
 
 740
 00:34:25,240 --> 00:34:26,707
@@ -3582,25 +3629,31 @@ How?
 
 741
 00:34:26,741 --> 00:34:28,608
-What color
-is the red fire truck?
+红色火焰的卡车是什么颜色?
+What color is the red fire truck?
 
 742
 00:34:28,626 --> 00:34:30,711
-That was the level
-of the question here.
+问题就这么简单.
+That was the level of the question here.
 
 743
 00:34:30,745 --> 00:34:32,279
+太疯狂了.
 This is crazy.
+
+743
+00:34:35,000 --> 00:34:43,000
+判断题: 魔界中, 精灵女王给精灵王子的弓上挂着精灵的头发.
 
 744
 00:34:43,591 --> 00:34:46,260
-I'm sorry, Chris.
-False is incorrect.
+对不起Chris, 答案不是错误.
+I'm sorry, Chris. False is incorrect.
 
 745
 00:34:46,311 --> 00:34:47,845
+Kelsey, 你可以飞了.
 Kelsey, you get to fly.
 
 746
@@ -3609,6 +3662,7 @@ Yay! [Laughs]
 
 747
 00:34:49,797 --> 00:34:53,567
+你不可通过!
 You shall not pass!
 
 748
@@ -3617,16 +3671,13 @@ You shall not pass!
 
 749
 00:34:55,236 --> 00:34:57,354
+这是我的法杖.
 That was my staff. Boom!
 
 750
-00:34:57,405 --> 00:34:59,573
-Curtis: Great chance here
-to put some points on the board
-
-751
-00:34:59,607 --> 00:35:00,941
-and pull ahead of Chris.
+00:34:57,405 --> 00:35:00,941
+Curtis: 得分并反超的绝佳时机.
+Curtis: Great chance here to put some points on the board and pull ahead of Chris.
 
 752
 00:35:00,975 --> 00:35:01,942
@@ -3634,86 +3685,101 @@ Go!
 
 753
 00:35:01,976 --> 00:35:04,644
+Bobby: 开始了, Curtis.
 Bobby: There she goes, Curtis.
 
 754
 00:35:04,662 --> 00:35:06,479
-Xander: Ganbatte!
-Curtis: Here she goes.
+加油!
+Xander: Ganbatte! Curtis: Here she goes.
 
 755
 00:35:06,497 --> 00:35:10,500
-She's approaching
-the 100-point cauldrons, and...
+她正在接近100分值锅,
+She's approaching the 100-point cauldrons, and...
 
 756
 00:35:11,536 --> 00:35:14,538
+差一点儿就进了!
 Oh! She just missed it!
 
 757
 00:35:14,589 --> 00:35:15,923
+Bobby: 这个也是差一点儿.
 Bobby: That was so close.
 
 758
 00:35:15,957 --> 00:35:17,925
+250分也没进!
 Oh! And she missed the 250!
 
 759
 00:35:17,959 --> 00:35:19,426
+这下麻烦了.
 That's gonna hurt.
 
 760
 00:35:20,378 --> 00:35:24,565
-Missing was pretty frustrating,
-and "kirai desu."
+老扔不进很让我抓狂,
+Missing was pretty frustrating, and "kirai desu."
 
 761
 00:35:24,599 --> 00:35:26,233
+我不喜欢这样.
 You know, I don't like it.
 
 762
 00:35:26,267 --> 00:35:28,235
-You know,
-I don't like it at all.
+这根本不是我的.
+You know, I don't like it at all.
 
 763
 00:35:28,269 --> 00:35:29,469
+下一题.
 Next question.
+
+763
+00:35:30,269 --> 00:35:38,469
+权力的游戏中, 下面哪个称号不属于泰温兰尼斯特?
+
+763
+00:35:39,269 --> 00:35:38,469
+A.首相 B.西方狱长 C.凯岩城之主 D.国王卫队骑士
 
 764
 00:35:46,788 --> 00:35:48,889
-Brian: If I were in
-their position, I'd be like,
+Brian: 如果我是他们,
+Brian: If I were in their position, I'd be like,
 
 765
 00:35:48,923 --> 00:35:51,391
-"okay, I have to study
-'Game of Thrones, '"
+我刚才就多看看"权力的游戏"
+"okay, I have to study 'Game of Thrones, '"
 
 766
 00:35:51,426 --> 00:35:54,244
-but I'm also really
-obsessive-compulsive about spoilers,
+我对剧透有强迫症,
+but I'm also really obsessive-compulsive about spoilers,
 
 767
 00:35:54,295 --> 00:35:57,030
-and I wouldn't want to spoil
-myself just to win a challenge.
+但我不会为了赢一场比赛而过多暴露.
+and I wouldn't want to spoil myself just to win a challenge.
 
 768
 00:35:57,048 --> 00:36:00,534
-The correct answer
-is knight of the king's guard.
+正确答案是: 国王卫队骑士.
+The correct answer is knight of the king's guard.
 
 769
 00:36:00,568 --> 00:36:03,337
-Kelsey,
-you are about to fly again.
+Kelsey, 你可以再飞一次了.
+Kelsey, you are about to fly again.
 
 770
 00:36:03,388 --> 00:36:05,806
-Okay, but this is the problem...
-she needs actually a score.
+关键还要能得分.
+Okay, but this is the problem... she needs actually a score.
 
 771
 00:36:05,840 --> 00:36:10,978
@@ -3725,29 +3791,32 @@ Bobby: Okay, Kelsey.
 
 773
 00:36:12,597 --> 00:36:14,848
-Curtis: She's reaching
-early for the vials.
+Curtis: 她早早把魔瓶拿在了手中.
+Curtis: She's reaching early for the vials.
 
 774
 00:36:14,899 --> 00:36:17,351
-And she hasn't even...
-now she's approaching.
+还没... 正在接近.
+And she hasn't even... now she's approaching.
 
 775
 00:36:17,385 --> 00:36:18,551
+... 又没进!
 Oh! And she misses!
 
 776
 00:36:18,569 --> 00:36:20,520
-She got one!
-She got one... 100.
+中了个, 100分!
+She got one! She got one... 100.
 
 777
 00:36:20,588 --> 00:36:22,823
+Kelsey追平比分.
 Kelsey is now tied with Chris.
 
 778
 00:36:22,857 --> 00:36:24,825
+差一点就投中250分!
 Oh! Just misses a 250!
 
 779
@@ -3756,8 +3825,8 @@ Ohh!
 
 780
 00:36:27,393 --> 00:36:30,594
-Kelsey has just pulled ahead
-350 to 100!
+Kelsey以350比100反超!
+Kelsey has just pulled ahead 350 to 100!
 
 781
 00:36:30,615 --> 00:36:32,449
@@ -3765,83 +3834,97 @@ Kelsey has just pulled ahead
 
 782
 00:36:32,500 --> 00:36:33,951
+这是最后一题
 This is the last question.
 
 783
 00:36:34,002 --> 00:36:37,571
-Chris, you must answer correctly
-for a chance to win.
+Chris, 要赢的话你这道题必须要答对.
+Chris, you must answer correctly for a chance to win.
+
+783
+00:36:38,002 --> 00:36:37,571
+下面哪个物品是霍格华兹一年级学院不需要的. (哈利波特)
 
 784
 00:36:44,045 --> 00:36:46,346
+锡制锅
 One cauldron, pewter.
 
 785
 00:36:46,381 --> 00:36:48,915
+素面尖顶帽
 One plain, pointed hat.
 
 786
 00:36:48,933 --> 00:36:51,852
+一只任意品种的猫头鹰
 One owl, any breed of choice.
 
 787
 00:36:51,886 --> 00:36:55,856
-One copy of "magical theory"
-by adalbert waffling.
+一本阿达柏.瓦夫林的<魔法理论>
+One copy of "magical theory" by adalbert waffling.
 
 788
 00:36:56,991 --> 00:36:58,291
+加油, Kelsey.
 Come on, Kelsey.
 
 789
 00:36:58,326 --> 00:37:00,978
+Chris懂很多, 但魔幻? ╭∩╮(︶︿︶)╭∩╮
 Chris knows a lot, but fantasy?
 
 790
 00:37:01,029 --> 00:37:02,829
-Chris doesn't even know
-what a dungeon master is.
+Chris连地下城主是什么都不知道.
+Chris doesn't even know what a dungeon master is.
 
 791
 00:37:02,864 --> 00:37:04,531
+连地下城主干什么都不知道
 How do you get into Nerdvana
 
 792
 00:37:04,598 --> 00:37:07,367
-without knowing what
-a flippin' dungeon master does?
+他是怎么进来的.
+without knowing what a flippin' dungeon master does?
 
 793
 00:37:07,402 --> 00:37:11,738
-So, this is the perfect
-opportunity to get rid of him.
+这是除掉他的绝佳机会.
+So, this is the perfect opportunity to get rid of him.
 
 794
 00:37:11,772 --> 00:37:12,990
+出示答案.
 Reveal.
 
 795
 00:37:13,992 --> 00:37:18,412
-And the answer is
-one owl, any breed of choice.
+答案是: 一只任意品种的猫头鹰.
+And the answer is one owl, any breed of choice.
 
 796
 00:37:18,479 --> 00:37:19,830
+你们两个都有在飞一次的机会.
 You will both go flying.
 
 797
 00:37:19,914 --> 00:37:21,982
+Chris, 你先开始.
 Chris, you'll fly first.
 
 798
 00:37:22,016 --> 00:37:25,335
-The only reason I'm in this game
-is because I studied my butt off
+我能留下的唯一原因是
+The only reason I'm in this game is because I studied my butt off
 
 799
 00:37:25,420 --> 00:37:27,471
-when it came to
-"Harry Potter" questions.
+我刚狂补了哈利波特的知识.
+when it came to "Harry Potter" questions.
 
 800
 00:37:27,505 --> 00:37:29,840
@@ -3849,13 +3932,13 @@ when it came to
 
 801
 00:37:29,891 --> 00:37:33,427
-Xander: If we lose Chris, it would
-be a huge blow to the titans.
+Xander: 没有Chris将是泰坦的重大损失.
+Xander: If we lose Chris, it would be a huge blow to the titans.
 
 802
 00:37:33,461 --> 00:37:36,163
-We're putting a lot of stock
-in him keeping us together.
+我们需要他把大家团结在一起.
+We're putting a lot of stock in him keeping us together.
 
 803
 00:37:36,964 --> 00:37:38,631
@@ -3863,6 +3946,7 @@ Set... Go!
 
 804
 00:37:43,824 --> 00:37:45,709
+Katie: 泰坦时间!
 Katie: It's Titan time!
 
 805
@@ -3871,16 +3955,17 @@ Katie: It's Titan time!
 
 806
 00:37:46,961 --> 00:37:48,995
-Josh: The result
-of this Nerd-Off is big.
+Josh: 这次的结果很重要.
+Josh: The result of this Nerd-Off is big.
 
 807
 00:37:49,046 --> 00:37:51,298
-If they lose Chris,
-they lose their leader.
+如果没有了Chris, 他们就没了领袖.
+If they lose Chris, they lose their leader.
 
 808
 00:37:51,332 --> 00:37:53,300
+希望他们彻底混乱.
 We want them to be in chaos.
 
 809
@@ -3889,25 +3974,27 @@ Ready... Set... Go!
 
 810
 00:37:55,653 --> 00:37:58,638
-- And he's off, Curtis.
-- Yep.
+他开始了.
+- And he's off, Curtis. - Yep.
 
 811
 00:37:58,673 --> 00:38:00,590
+Chris落后250分
 Chris is down by 250 points
 
 812
 00:38:00,641 --> 00:38:03,310
-and has to make it up here
-on the final run.
+胜负全在这最后一搏.
+and has to make it up here on the final run.
 
 813
 00:38:03,344 --> 00:38:05,862
+他扔了
 And... He throws.
 
 814
 00:38:05,897 --> 00:38:08,014
-- Misses the 100.
+100分没进
 - Misses the 100.
 
 815
@@ -3916,54 +4003,57 @@ And... He throws.
 
 816
 00:38:10,084 --> 00:38:12,352
-- Misses the 200.
+200分没进
 - Misses the 200.
 
 817
 00:38:12,386 --> 00:38:15,071
+500分! 惊人的一投!
 And it's 500! An amazing shot!
 
 818
 00:38:15,106 --> 00:38:17,090
+Chris反超了!
 And Chris has taken the lead!
 
 819
 00:38:17,124 --> 00:38:21,394
-Chris has risen from the
-cauldron of his father's bones
+Chris再次升起, 从父亲的尸骨
+Chris has risen from the cauldron of his father's bones
 
 820
 00:38:21,412 --> 00:38:25,782
-and the blood of his enemies
-like lord Voldemort.
+以及伏地魔的血液中重获能量.
+and the blood of his enemies like lord Voldemort.
 
 821
 00:38:25,833 --> 00:38:30,403
-Kelsey, you're gonna
-have to make 250 points.
+Kelsey, 你至少要得250分.
+Kelsey, you're gonna have to make 250 points.
 
 822
 00:38:30,438 --> 00:38:32,789
-Mary Kate:
-If Chris ends up winning,
+Mary Kate: 如果Chris最后获胜,
+Mary Kate: If Chris ends up winning,
 
 823
 00:38:32,840 --> 00:38:35,208
-just like Newton's third law
-of motion...
+就要面临牛顿第三定律...
+just like Newton's third law of motion...
 
 824
 00:38:35,259 --> 00:38:38,795
-with every action, there's an
-opposite and equal reaction...
+每一个力, 都有一个大小相等方向相反的反作用力...
+with every action, there's an opposite and equal reaction...
 
 825
 00:38:38,846 --> 00:38:41,381
-and I'm just worried about the
-reaction that we're gonna get.
+我担心接下来可能的反作用力.
+and I'm just worried about the reaction that we're gonna get.
 
 826
 00:38:41,415 --> 00:38:43,183
+开始吧!
 Let's do it!
 
 827
@@ -3972,56 +4062,62 @@ Go!
 
 828
 00:38:45,052 --> 00:38:48,855
-You can see the concentration
-in her face now, Bobby.
+Bobby, 你可以看出她注意力高度集中.
+You can see the concentration in her face now, Bobby.
 
 829
 00:38:48,889 --> 00:38:50,140
+她真的很投入.
 She's really focused.
 
 830
 00:38:50,191 --> 00:38:51,758
+Bobby: 这次认真了.
 Bobby: She's serious this time.
 
 831
 00:38:51,776 --> 00:38:53,610
-She's already taken
-one of the vials out.
+她拿出了一个魔瓶.
+She's already taken one of the vials out.
 
 832
 00:38:53,644 --> 00:38:55,946
-She's approaching
-the 100 cauldrons.
+正在接近100分锅.
+She's approaching the 100 cauldrons.
 
 833
 00:38:55,980 --> 00:38:57,931
+他投进了!
 And she got one in!
 
 834
 00:38:57,965 --> 00:39:00,283
-Kelsey's one cauldron
-away from victory!
+Kelsey距离胜利还有一"锅"之遥!
+Kelsey's one cauldron away from victory!
 
 835
 00:39:00,318 --> 00:39:02,935
+第二投没中!
 And she missed the second!
 
 836
 00:39:02,954 --> 00:39:07,106
-She'll have one more chance
-at this 500-point cauldron.
+还剩下最后一个500分锅.
+She'll have one more chance at this 500-point cauldron.
 
 837
 00:39:07,124 --> 00:39:08,941
+第三投不中!
 And she missed the third!
 
 838
 00:39:08,960 --> 00:39:12,412
-Kelsey has come up short,
-which means, Chris,
+Kelsey最后一投不中, 也就是, Chris,
+Kelsey has come up short, which means, Chris,
 
 839
 00:39:12,446 --> 00:39:16,967
+你赢得了这场对决!
 you have won this Nerd-Off!
 
 840
@@ -4030,60 +4126,62 @@ you have won this Nerd-Off!
 
 841
 00:39:19,170 --> 00:39:22,255
-I'm going back to Nerdvana,
-and I'm going for the gold team.
+我会回到Nerdvana, 我会让黄队后悔.
+I'm going back to Nerdvana, and I'm going for the gold team.
 
 842
 00:39:22,289 --> 00:39:24,674
+你们会受到"德克萨斯"正义的审判.
 You will receive Texas justice.
 
 843
 00:39:24,759 --> 00:39:28,261
-Jack: Chris, you swallowed
-a bottle of Felix felicis.
+Jack: Chris, 你喝药了吧.
+Jack: Chris, you swallowed a bottle of Felix felicis.
 
 844
 00:39:28,295 --> 00:39:31,815
-That's the luck potion
-in "Harry Potter."
+哈利波特的幸运之药.
+That's the luck potion in "Harry Potter."
 
 845
 00:39:31,899 --> 00:39:35,835
-Kelsey, while the sun may set
-for you here at Nerdvana,
+Kelsey, 尽管你的太阳将不会在Nerdvana再次升起,
+Kelsey, while the sun may set for you here at Nerdvana,
 
 846
 00:39:35,903 --> 00:39:40,473
-we know that you will always be one
-with the land of the rising sun.
+我们相信你的太阳会在另一片土地上升起.
+we know that you will always be one with the land of the rising sun.
 
 847
 00:39:41,418 --> 00:39:46,446
-So fly off, Kelsey, to all that
-the future will hold for you.
+Kelsey, 飞向属于你的未来.
+So fly off, Kelsey, to all that the future will hold for you.
 
 848
 00:39:46,514 --> 00:39:49,115
+我准备好了.
 I can't wait. [Chuckles]
 
 849
 00:39:49,149 --> 00:39:51,117
+Brian: 泰坦的猎户...
 Brian: The Titans of Rigel...
 
 850
 00:39:51,151 --> 00:39:53,386
-we stand on the shoulders
-of our predecessors,
+我们站在前人的肩膀上,
+we stand on the shoulders of our predecessors,
 
 851
 00:39:53,454 --> 00:39:57,374
-and Kelsey becomes
-one of our predecessors.
+Kelsey成为了其中之一.
+and Kelsey becomes one of our predecessors.
 
 852
 00:39:57,458 --> 00:40:00,043
-Ja ne! Minasan,
-arigatou gozaimasu!
+Ja ne! Minasan, arigatou gozaimasu!
 
 853
 00:40:00,094 --> 00:40:02,095
@@ -4091,60 +4189,62 @@ Ganbarimasu!
 
 854
 00:40:02,129 --> 00:40:07,166
-Brian: It's an honor for us to be
-able to stand on her shoulder.
+Brian: 可以站在她的肩膀上使我们的荣誉.
+Brian: It's an honor for us to be able to stand on her shoulder.
 
 855
 00:40:07,184 --> 00:40:10,103
-On the other hand,
-nobody wants to be the shoulder.
+但没人想成为肩膀.
+On the other hand, nobody wants to be the shoulder.
 
 856
 00:40:19,280 --> 00:40:22,365
-Kayla: Being able
-to actually talk to people,
+Kelsey: 与人们交心,
+Kelsey: Being able to actually talk to people,
 
 857
 00:40:22,400 --> 00:40:25,452
-get out of my computer
-and my books,
+远离电脑和书,
+get out of my computer and my books,
 
 858
 00:40:25,486 --> 00:40:28,488
-it's just
-such a fascinating experience.
+是个让我难忘的经历.
+it's just such a fascinating experience.
 
 859
 00:40:28,522 --> 00:40:31,157
-And these are
-all <i>amazing</i> people.
+这些都是传奇人物.
+And these are all <i>amazing</i> people.
 
 860
 00:40:31,208 --> 00:40:33,860
-And Nerdvana was like
-its own mini-world.
+Nerdvana是个小世界.
+And Nerdvana was like its own mini-world.
 
 861
 00:40:33,894 --> 00:40:38,197
-You know, "chiisai sekai"...
-its own "little, tiny world."
+小世界.
+You know, "chiisai sekai"... its own "little, tiny world."
 
 862
 00:40:38,215 --> 00:40:41,034
-And, oh, my goodness,
-what a world to be in.
+天啊, 多好的世界呀!
+And, oh, my goodness, what a world to be in.
 
 863
 00:40:41,102 --> 00:40:44,421
-[Speaking Japanese]
-Do your best, my new friends!
+加油, 我的新朋友们!
+[Speaking Japanese] Do your best, my new friends!
 
 864
 00:40:44,472 --> 00:40:46,756
+他曾经与众不同.
 She was unique.
 
 865
 00:40:46,807 --> 00:40:48,308
+曾经是.
 She was.
 
 866
@@ -4157,6 +4257,5 @@ She was.
 
 868
 00:40:54,415 --> 00:40:59,415
-<i><b><font color="#96f171">Sync & corrections by No1
-www.addic7ed.com.</font></b></i>
+<i><b><font color="#96f171">吃饱了好学习译.</font></b></i>
 
