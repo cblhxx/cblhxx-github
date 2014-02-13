@@ -2589,7 +2589,8 @@ No hard feelings.
 
 529
 00:24:28,372 --> 00:24:33,531
-- [Rooster crows] - Curtis: All nerds to the throne room!
+- Curtis: 大家来到正殿!
+- Curtis: All nerds to the throne room!
 
 530
 00:24:36,182 --> 00:24:38,801
@@ -2597,55 +2598,57 @@ Nicole: Oh, my...
 
 531
 00:24:38,802 --> 00:24:41,706
-Brian: Today is our first
-Nerd-Off, and it will be somebody
+Brian: 今天我们将迎来第一场对决,
+Brian: Today is our first Nerd-Off, and it will be somebody
 
 532
 00:24:41,740 --> 00:24:44,291
-from the purple team against
-somebody from the purple team.
+紫队两个人进行决斗.
+from the purple team against somebody from the purple team.
 
 533
 00:24:44,326 --> 00:24:47,244
-It's like
-Bruce Wayne's hall of armor.
+这简直是蝙蝠侠的武器室.
+It's like Bruce Wayne's hall of armor.
 
 534
 00:24:47,278 --> 00:24:49,830
-Josh: It really feels like
-this regal chamber
+Josh: 这就是我梦想的帝王宫殿
+Josh: It really feels like this regal chamber
 
 535
 00:24:49,915 --> 00:24:52,850
-where the king would sit
-and make his decisions.
+国王与群臣议事的地方.
+where the king would sit and make his decisions.
 
 536
 00:24:56,722 --> 00:25:00,558
-Welcome, nerds,
-to this nerd elysium,
+欢迎来到这个汇集宅元素的天堂,
+Welcome, nerds, to this nerd elysium,
 
 537
 00:25:00,592 --> 00:25:04,729
-where we will be revealing
-which two nerds
+我们将揭晓哪两位选手
+where we will be revealing which two nerds
 
 538
 00:25:04,763 --> 00:25:08,849
-will be going to head-to-head
-in our first Nerd-Off.
+参加首轮残酷的对决.
+will be going to head-to-head in our first Nerd-Off.
 
 539
 00:25:10,318 --> 00:25:14,655
-The winner will stay
-to compete for the crown
+胜利的一方可以留下继续比拼
+The winner will stay to compete for the crown
 
 540
 00:25:14,689 --> 00:25:17,508
+为了登上至高的
 and the right to sit atop...
 
 541
 00:25:17,542 --> 00:25:20,978
+游戏之王的王座!
 The throne of games!
 
 542
@@ -2654,31 +2657,32 @@ The throne of games!
 
 543
 00:25:25,483 --> 00:25:28,536
-Xander: This is the first time that
-I've seen the throne of games,
+Xander: 这是我第一次见到王座,
+Xander: This is the first time that I've seen the throne of games,
 
 544
 00:25:28,587 --> 00:25:30,504
-and it became
-a real competition.
+比赛越来越残酷,
+and it became a real competition.
 
 545
 00:25:30,539 --> 00:25:34,225
-There's gonna be blood shed
-to get to that chair.
+想登上宝座必将经历腥风血雨.
+There's gonna be blood shed to get to that chair.
 
 546
 00:25:34,292 --> 00:25:36,927
-The loser
-goes home immediately.
+失败的一方要立即离开.
+The loser goes home immediately.
 
 547
 00:25:36,962 --> 00:25:40,214
-But first, have you come up
-with your team names?
+但首先, 你们的队名是什么?
+But first, have you come up with your team names?
 
 548
 00:25:40,265 --> 00:25:42,733
+我们的队名是...
 Our team is...
 
 549
@@ -2692,54 +2696,57 @@ The Midas...
 
 551
 00:25:45,437 --> 00:25:46,637
-- Attack!
+- Attack! "黄金突击"
 - Attack!
 
 552
 00:25:46,671 --> 00:25:49,339
+还有段表演.
 There was even a presentation.
 
 553
 00:25:49,357 --> 00:25:51,776
-It's amazing.
-And how did that come about?
+不错. 这个队名是什么意思?
+It's amazing. And how did that come about?
 
 554
 00:25:51,843 --> 00:25:54,011
-We are the gold team,
-and the Midas Touch
+我们是黄队, Midas Touch的意思是
+We are the gold team, and the Midas Touch
 
 555
 00:25:54,045 --> 00:25:56,313
-is the ability
-to turn things into gold.
+点石成金的能力.
+is the ability to turn things into gold.
 
 556
 00:25:56,347 --> 00:25:58,449
-The Touch Attack
-is a dungeons & dragons term
+Touch Attack是龙与地下城的术语
+The Touch Attack is a dungeons & dragons term
 
 557
 00:25:58,483 --> 00:26:01,952
-for a direct physical attack
-that penetrates armor.
+一个可以穿透装甲的攻击
+for a direct physical attack that penetrates armor.
 
 558
 00:26:01,987 --> 00:26:05,356
-Okay, a lot of work
-went into that. Thank you.
+OK, 看的出你们很用心. 谢谢.
+Okay, a lot of work went into that. Thank you.
 
 559
 00:26:05,390 --> 00:26:08,039
+紫队.
 Purple team.
 
 560
 00:26:08,052 --> 00:26:10,711
-Standing upon the shoulders
-of giants, we are...
+站在巨人的臂膀上, 我们是
+Standing upon the shoulders of giants, we are...
 
 561
 00:26:10,745 --> 00:26:12,913
+泰坦上的猎户
 All: The Titans of Rigel!
 
 562
@@ -2748,6 +2755,7 @@ All: The Titans of Rigel!
 
 563
 00:26:15,500 --> 00:26:16,917
+之前他们已经告诉了.
 Last time, they just <i>told</i> us.
 
 564
@@ -2756,121 +2764,127 @@ Last time, they just <i>told</i> us.
 
 565
 00:26:18,587 --> 00:26:20,638
-Why The Titans of Rigel?
-Could you explain that?
+你们解释下Titans of Rigel是什么意思.
+Why The Titans of Rigel? Could you explain that?
 
 566
 00:26:20,705 --> 00:26:23,424
-We are titans, individually, we
-come together to work as a team,
+我们每一个人都是泰坦, 在一起形成一个团队,
+We are titans, individually, we come together to work as a team,
 
 567
 00:26:23,475 --> 00:26:26,811
-and Rigel is the foot star
-from the constellation orion.
+Rigel是猎户座β, 猎户座的左腿.
+and Rigel is the foot star from the constellation orion.
 
 568
 00:26:26,845 --> 00:26:29,513
-And we are standing
-on the shoulders of giants
+我们是站在巨人的肩膀上
+And we are standing on the shoulders of giants
 
 569
 00:26:29,548 --> 00:26:32,817
-to take our fields
-to the next level.
+将我们的能力提升到更高的境界.
+to take our fields to the next level.
 
 570
 00:26:32,851 --> 00:26:35,319
-All the past scientists
-and philosophers
+之前的科学家和哲学家
+All the past scientists and philosophers
 
 571
 00:26:35,353 --> 00:26:37,321
-have propelled us
-to this moment.
+都对我们比较排斥.
+have propelled us to this moment.
 
 572
 00:26:37,355 --> 00:26:39,323
-"Titans" also sounds
-more badass than "giants."
+泰坦比巨人听起来更有些坏坏的感觉.
+"Titans" also sounds more badass than "giants."
 
 573
 00:26:39,357 --> 00:26:41,592
-And I'm sorry, Curtis,
-but it's "rhy-jel."
+Curtis打断下, 这是"rhy-jel".
+And I'm sorry, Curtis, but it's "rhy-jel."
 
 574
 00:26:41,626 --> 00:26:43,577
-- Uh, yes.
-- Soft "G." Soft "G."
+恩, G, G.
+- Uh, yes. - Soft "G." Soft "G."
 
 575
 00:26:43,612 --> 00:26:45,896
-Yeah, soft "g." I know.
-[Laughs]
+是的, g, 我懂.
+Yeah, soft "g." I know. [Laughs]
 
 576
 00:26:45,914 --> 00:26:48,415
+你们的投票在我手里.
 We have your votes right here.
 
 577
 00:26:48,450 --> 00:26:50,701
+"黄金突击"
 Team Midas Touch Attack...
 
 578
 00:26:50,735 --> 00:26:52,469
-Katie: I feel like the people
-who are on the chopping block
+Katie: 我认为会被选中的人
+Katie: I feel like the people who are on the chopping block
 
 579
 00:26:52,504 --> 00:26:54,338
+只会是Chris或Kaya.
 are really Chris and Kayla.
 
 580
 00:26:54,372 --> 00:26:57,441
-They're seen as these,
-sort of, science powerhouses.
+他们都是科学类型.
+They're seen as these, sort of, science powerhouses.
 
 581
 00:26:57,475 --> 00:27:00,744
+全体一致决定...
 By unanimous consent...
 
 582
 00:27:00,762 --> 00:27:04,415
-Chris, you will be going
-to the Nerd-Off.
+Chris, 你将参加这次的对决.
+Chris, you will be going to the Nerd-Off.
 
 583
 00:27:04,449 --> 00:27:06,884
-I'm hoping that the gold team
-thinks I'm a threat,
+我希望黄对认为我是个威胁,
+I'm hoping that the gold team thinks I'm a threat,
 
 584
 00:27:06,918 --> 00:27:09,470
-rather than thinking
-that I'm the weakest player.
+而不是拿我当打酱油的.
+rather than thinking that I'm the weakest player.
 
 585
 00:27:09,521 --> 00:27:11,438
-It's a compliment. His own
-words, it's a compliment.
+这是恭维. 他自己说的, 这是荣誉.
+It's a compliment. His own words, it's a compliment.
 
 586
 00:27:11,473 --> 00:27:13,557
-He is, you know...
-he has a lot of skills,
+他有很多的技能,
+He is, you know... he has a lot of skills,
 
 587
 00:27:13,591 --> 00:27:16,402
-and we want to take those out
-early in the game.
+所以我们想尽早除掉他.
+and we want to take those out early in the game.
 
 588
 00:27:17,395 --> 00:27:19,563
+泰坦上的猎户
 Titans of Rigel...
 
 589
 00:27:21,032 --> 00:27:24,101
+你们第一票是...
 Your first vote is...
 
 590
@@ -2879,6 +2893,7 @@ Kelsey.
 
 591
 00:27:26,705 --> 00:27:28,339
+第二票...
 Second vote...
 
 592
@@ -2887,6 +2902,7 @@ Kelsey.
 
 593
 00:27:32,143 --> 00:27:34,011
+第三票...
 Third vote...
 
 594
@@ -2903,50 +2919,51 @@ Kelsey.
 
 597
 00:27:40,886 --> 00:27:44,505
-Kelsey: I have a big "X" on my back
-just 'cause of what happened yesterday.
+Kelsey: 因为昨天的事儿, 我背后背个大靶子
+Kelsey: I have a big "X" on my back just 'cause of what happened yesterday.
 
 598
 00:27:44,556 --> 00:27:46,991
-It's like,
-"man! Again? Oh, joy."
+这感觉, "不是吧, 又来!"
+It's like, "man! Again? Oh, joy."
 
 599
 00:27:48,626 --> 00:27:49,977
-- Kelsey...
-- Yes.
+- Kelsey... - Yes.
 
 600
 00:27:50,011 --> 00:27:52,062
-You will be going
-to the Nerd-Off.
+你将要参加这次对决.
+You will be going to the Nerd-Off.
 
 601
 00:27:52,097 --> 00:27:54,848
-Well, after what happened yesterday,
-I have a lot to prove, don't I?
+好的,　经过昨天的一切, 我更需要证明自己.
+Well, after what happened yesterday, I have a lot to prove, don't I?
 
 602
 00:27:54,866 --> 00:27:57,467
-And I'm going to
-prove it today.
+我今天就要证明我的价值.
+And I'm going to prove it today.
 
 603
 00:27:57,485 --> 00:27:59,770
-Kelsey, Chris...
-step forward, please.
+Kelsey, Chris... 请上前.
+Kelsey, Chris... step forward, please.
 
 604
 00:28:02,657 --> 00:28:04,508
+请下跪.
 Bend the knee.
 
 605
 00:28:06,077 --> 00:28:12,816
-Today, you will be tested on your
-knowledge of all things fantasy.
+几天, 你们面临的是对奇幻世界的考验.
+Today, you will be tested on your knowledge of all things fantasy.
 
 606
 00:28:14,552 --> 00:28:16,754
+Bobby, 扫帚!
 Bobby, the broom!
 
 607
@@ -2955,6 +2972,7 @@ Bobby, the broom!
 
 608
 00:28:17,956 --> 00:28:19,506
+我知道
 I know that broom!
 
 609
@@ -2975,8 +2993,7 @@ The nerd bolt.
 
 613
 00:28:29,834 --> 00:28:36,140
-Today, you are going to be
-doing battle in the skies...
+Today, you are going to be doing battle in the skies...
 
 614
 00:28:36,207 --> 00:28:37,507
