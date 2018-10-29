@@ -1,0 +1,189 @@
+" Specify a directory for plugins
+" - For Neovim: ~/.local/share/nvim/plugged
+" - Avoid using standard Vim directory names like 'plugin'
+" curl -fLo ~/.vim/autoload/plug.vim --create-dirs https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim
+call plug#begin('~/.vim/plugged')
+
+" Plug 'junegunn/vim-easy-align'
+
+Plug 'scrooloose/nerdtree'
+Plug 'ludovicchabant/vim-gutentags'
+Plug 'mhinz/vim-signify'
+Plug 'Valloric/YouCompleteMe'
+Plug 'jrosiek/vim-mark'
+Plug 'Yggdroot/LeaderF'
+Plug 'vim-airline/vim-airline'
+" Plug 'majutsushi/tagbar'
+Plug 'tpope/vim-projectionist'
+call plug#end()
+
+set tags=./.tags;,.tags
+
+" airline
+let g:airline#extensions#tabline#enabled = 1
+
+" gtags
+let $GTAGSLABEL = 'native-pygments'
+set csprg=gtags-cscope
+
+" gutentags
+let g:gutentags_project_root = ['.root', '.svn', '.git', '.hg', '.project']
+let g:gutentags_ctags_tagfile = '.tags'
+if executable('gtags-cscope') && executable('gtags')
+    let g:gutentags_modules = ['ctags', 'gtags_cscope']
+endif
+let s:vim_tags = expand('~/.cache/tags')
+"let g:gutentags_cache_dir = s:vim_tags
+let g:gutentags_ctags_extra_args = ['--fields=+niazS', '--extra=+q']
+let g:gutentags_ctags_extra_args += ['--c++-kinds=+px']
+let g:gutentags_ctags_extra_args += ['--c-kinds=+px']
+let g:gutentags_ctags_exclude = ["build", "test"]
+" for universal ctags
+" let g:gutentags_ctags_extra_args += ['--output-format=etags']
+if !isdirectory(s:vim_tags)
+   silent! call mkdir(s:vim_tags, 'p')
+endif
+let g:gutentags_auto_add_gtags_cscope = 1
+
+" YouCompleteMe
+let g:ycm_add_preview_to_completeopt = 0
+let g:ycm_show_diagnostics_ui = 0
+let g:ycm_server_log_level = 'info'
+let g:ycm_min_num_identifier_candidate_chars = 2
+let g:ycm_collect_identifiers_from_comments_and_strings = 1
+let g:ycm_complete_in_strings=1
+let g:ycm_key_invoke_completion = '<c-z>'
+let g:ycm_global_ycm_extra_conf = '~/.vim/plugged/YouCompleteMe/third_party/ycmd/cpp/ycm/.ycm_extra_conf.py'
+set completeopt=menu,menuone
+
+noremap <c-z> <NOP>
+
+let g:ycm_semantic_triggers =  {
+           \ 'c,cpp,python,java,go,erlang,perl': ['re!\w{2}'],
+           \ 'cs,lua,javascript': ['re!\w{2}'],
+           \ }
+
+let g:ycm_filetype_whitelist = {
+			\ "c":1,
+			\ "h":1,
+			\ "cpp":1,
+			\ "hpp":1,
+			\ "objc":1,
+			\ "sh":1,
+			\ "zsh":1,
+			\ "zimbu":1,
+			\ }
+
+
+" LeaderF
+let g:Lf_ShortcutF = '<c-p>'
+let g:Lf_ShortcutB = '<m-n>'
+noremap <c-n> :LeaderfMru<cr>
+noremap <m-p> :LeaderfFunction<cr>
+noremap <m-n> :LeaderfBuffer<cr>
+noremap <m-m> :LeaderfTag<cr>
+let g:Lf_StlSeparator = { 'left': '', 'right': '', 'font': '' }
+
+let g:Lf_RootMarkers = ['.project', '.root', '.svn', '.git']
+let g:Lf_WorkingDirectoryMode = 'Ac'
+let g:Lf_WindowHeight = 0.30
+let g:Lf_CacheDirectory = expand('~/.vim/cache')
+let g:Lf_ShowRelativePath = 0
+let g:Lf_HideHelp = 1
+let g:Lf_StlColorscheme = 'powerline'
+let g:Lf_DefaultMode = 'FullPath'
+
+let g:Lf_NormalMap = {
+   \ "File":   [["<ESC>", ':exec g:Lf_py "fileExplManager.quit()"<CR>'],
+   \            ["<F6>", ':exec g:Lf_py "fileExplManager.quit()"<CR>'] ],
+   \ "Buffer": [["<ESC>", ':exec g:Lf_py "bufExplManager.quit()"<CR>'],
+   \            ["<F6>", ':exec g:Lf_py "bufExplManager.quit()"<CR>'] ],
+   \ "Mru":    [["<ESC>", ':exec g:Lf_py "mruExplManager.quit()"<CR>']],
+   \ "Tag":    [["<ESC>", ':exec g:Lf_py "tagExplManager.quit()"<CR>']],
+   \ "Function":    [["<ESC>", ':exec g:Lf_py "functionExplManager.quit()"<CR>']],
+   \ "Colorscheme":    [["<ESC>", ':exec g:Lf_py "colorschemeExplManager.quit()"<CR>']],
+   \ }
+
+set pastetoggle=<F2>
+nmap <F7> :cn<cr>   " ........
+nmap <F6> :cp<cr>   " ........
+nmap <F8> \m
+
+set nu
+set tabstop=4
+set shiftwidth=4
+set expandtab
+set showcmd
+
+set list
+set listchars=tab:>-,trail:-
+
+
+noremap nt :NERDTreeToggle<cr>
+noremap nf :NERDTreeFind<cr>
+" noremap tb :TagbarToggle<cr>
+noremap nu :set nu!<cr>
+
+
+set nocscopetag
+"silent! cs add $PWD/cscope.out
+silent! cs add $PWD/GTAGS
+set cscopequickfix=s-,c-,d-,i-,t-,e-
+nmap <C-@>s :cs find s <C-R>=expand("<cword>")<cr><cr> :cw<cr>
+nmap <C-@>g :cs find g <C-R>=expand("<cword>")<cr><cr>
+nmap <C-@>c :cs find c <C-R>=expand("<cword>")<cr><cr> :cw<cr>
+nmap <C-@>t :cs find t <C-R>=expand("<cword>")<cr><cr> :cw<cr>
+nmap <C-@>e :cs find e <C-R>=expand("<cword>")<cr><cr> :cw<cr>
+nmap <C-@>f :cs find f <C-R>=expand("<cfile>")<cr><cr>
+nmap <C-@>i :cs find i <C-R>=expand("<cfile>")<cr><cr> :cw<cr>
+nmap <C-@>d :cs find d <C-R>=expand("<cword>")<cr><cr> :cw<cr>
+
+
+
+
+function! Terminal_MetaMode(mode)
+    set ttimeout
+    if $TMUX != ''
+        set ttimeoutlen=30
+    elseif &ttimeoutlen > 80 || &ttimeoutlen <= 0
+        set ttimeoutlen=80
+    endif
+    if has('nvim') || has('gui_running')
+        return
+    endif
+    function! s:metacode(mode, key)
+        if a:mode == 0
+            exec "set <M-".a:key.">=\e".a:key
+        else
+            exec "set <M-".a:key.">=\e]{0}".a:key."~"
+        endif
+    endfunc
+    for i in range(10)
+        call s:metacode(a:mode, nr2char(char2nr('0') + i))
+    endfor
+    for i in range(26)
+        call s:metacode(a:mode, nr2char(char2nr('a') + i))
+        call s:metacode(a:mode, nr2char(char2nr('A') + i))
+    endfor
+    if a:mode != 0
+        for c in [',', '.', '/', ';', '[', ']', '{', '}']
+            call s:metacode(a:mode, c)
+        endfor
+        for c in ['?', ':', '-', '_']
+            call s:metacode(a:mode, c)
+        endfor
+    else
+        for c in [',', '.', '/', ';', '{', '}']
+            call s:metacode(a:mode, c)
+        endfor
+        for c in ['?', ':', '-', '_']
+            call s:metacode(a:mode, c)
+        endfor
+    endif
+endfunc
+
+call Terminal_MetaMode(0)
+
+if exists('$TMUX')
+  set term=screen-256color
+endif
